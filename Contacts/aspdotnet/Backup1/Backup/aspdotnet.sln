@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspdotnet", "http://localhost/aspdotnet/aspdotnet.csproj", "{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Debug.ActiveCfg = Debug|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Debug.Build.0 = Debug|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Release.ActiveCfg = Release|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

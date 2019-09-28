@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspdotnet", "http://localhost/aspdotnet/aspdotnet.csproj", "{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Debug|Default.ActiveCfg = Debug|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Debug|Default.Build.0 = Debug|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Release|Default.ActiveCfg = Release|.NET
+		{A29985D8-1D5F-4654-8D3D-BA60C6262B4F}.Release|Default.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

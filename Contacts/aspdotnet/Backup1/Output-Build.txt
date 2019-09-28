@@ -1,0 +1,17 @@
+------ Build started: Project: aspdotnet, Configuration: Debug .NET ------
+
+Preparing resources...
+Updating references...
+Performing main compilation...
+\\nova\intranet\synova\app\aspdotnet\components\bll\address.cs(17,20): warning CS0169: The private field 'aspdotnet.BusinessLogicLayer.Address._PersonalEmail' is never used
+
+Build complete -- 0 errors, 1 warnings
+Building satellite assemblies...
+
+
+
+---------------------- Done ----------------------
+
+    Build: 1 succeeded, 0 failed, 0 skipped
+
+
